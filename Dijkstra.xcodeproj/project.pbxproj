@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		EE7AB5A31C23D6A800A41C1B /* Dijkstra */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Dijkstra; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE7AB5A61C23D6A800A41C1B /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		EE7AB5AE1C23D72500A41C1B /* Dijkstra.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Dijkstra.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				EE7AB5A61C23D6A800A41C1B /* main.cpp */,
+				EE7AB5AE1C23D72500A41C1B /* Dijkstra.hpp */,
 			);
 			path = Dijkstra;
 			sourceTree = "<group>";
